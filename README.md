@@ -11,7 +11,7 @@ This project is designed to extract text from images of National Identification 
 
 ## Requirements
 
-- Python 3.x
+- Python 3.10
 - PyTorch
 - Ultralytics YOLO
 - EasyOCR
